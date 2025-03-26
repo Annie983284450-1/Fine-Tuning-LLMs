@@ -1,4 +1,4 @@
-
+This repository contains practical Jupyter notebooks and resources for fine-tuning Large Language Models (LLMs) for various NLP tasks, from simple prompting methods to advanced fine-tuning techniques.
 '''
 pip install tensorflow torch transformers datasets
 
