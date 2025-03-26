@@ -1,11 +1,10 @@
 # Fine-Tuning-LLMs
-Create a full NLP solution with fine-tuning
+Chatbot.ipynb: Provides a chatbot implementation that leverages fine-tuned LLMs. 
 
+Specifically, 
 - 1_PromptingFlanT5.ipynb: Introduces prompting techniques using the Flan-T5 model.​
 
 - 2_Prompting_FlanT5_ICL_FewShot.ipynb: Demonstrates in-context learning and few-shot prompting with Flan-T5.​
-
-- Chatbot.ipynb: Provides a chatbot implementation that leverages fine-tuned LLMs.​
 
 - LoRA_Experiments.ipynb: Explores Low-Rank Adaptation (LoRA) experiments for model fine-tuning.​
 
