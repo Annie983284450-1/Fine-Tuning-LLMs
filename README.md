@@ -1,3 +1,8 @@
+
+'''
+pip install tensorflow torch transformers datasets
+
+'''
 # Fine-Tuning-LLMs
 Chatbot.ipynb: Provides a chatbot implementation that leverages fine-tuned LLMs. 
 
